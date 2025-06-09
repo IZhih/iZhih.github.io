@@ -7,3 +7,6 @@
 [submodule "FlappyBird"]
 	path = FlappyBird
 	url = https://github.com/IZhih/FlappyBird
+[submodule "YouTalk"]
+	path = YouTalk
+	url = https://github.com/IZhih/YouTalk
