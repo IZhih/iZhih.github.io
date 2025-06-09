@@ -1,0 +1,24 @@
+* {
+	color: #131313;
+}
+
+body {
+	display: grid;
+  grid-template-columns: max(calc(50vw - 600px), 18px) 1fr max(calc(50vw - 600px), 18px);
+	background-color: azure;
+	margin: 0;
+}
+
+header,
+main,
+footer {
+	grid-column: 2 / -2;
+}
+
+button {
+	all: unset;
+	border-radius: 20px;
+	background-color: wheat;
+	padding: 15px
+}
+
