@@ -1,0 +1,9 @@
+[submodule "IC-Repair-Design"]
+	path = IC-Repair-Design
+	url = https://github.com/IZhih/IC-Repair-Design
+[submodule "Snake"]
+	path = Snake
+	url = https://github.com/IZhih/Snake
+[submodule "FlappyBird"]
+	path = FlappyBird
+	url = https://github.com/IZhih/FlappyBird
